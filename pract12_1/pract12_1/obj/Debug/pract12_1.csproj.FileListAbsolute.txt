@@ -1,0 +1,10 @@
+C:\Users\305-6\Desktop\oberuhtina\pract12_1\pract12_1\bin\Debug\pract12_1.exe.config
+C:\Users\305-6\Desktop\oberuhtina\pract12_1\pract12_1\bin\Debug\pract12_1.exe
+C:\Users\305-6\Desktop\oberuhtina\pract12_1\pract12_1\bin\Debug\pract12_1.pdb
+C:\Users\305-6\Desktop\oberuhtina\pract12_1\pract12_1\obj\Debug\pract12_1.csproj.AssemblyReference.cache
+C:\Users\305-6\Desktop\oberuhtina\pract12_1\pract12_1\obj\Debug\pract12_1.Form1.resources
+C:\Users\305-6\Desktop\oberuhtina\pract12_1\pract12_1\obj\Debug\pract12_1.Properties.Resources.resources
+C:\Users\305-6\Desktop\oberuhtina\pract12_1\pract12_1\obj\Debug\pract12_1.csproj.GenerateResource.cache
+C:\Users\305-6\Desktop\oberuhtina\pract12_1\pract12_1\obj\Debug\pract12_1.csproj.CoreCompileInputs.cache
+C:\Users\305-6\Desktop\oberuhtina\pract12_1\pract12_1\obj\Debug\pract12_1.exe
+C:\Users\305-6\Desktop\oberuhtina\pract12_1\pract12_1\obj\Debug\pract12_1.pdb
